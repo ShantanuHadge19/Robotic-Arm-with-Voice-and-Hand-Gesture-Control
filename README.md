@@ -31,6 +31,13 @@ Robotic arm controlled using voice commands and hand gestures, enabling intuitiv
 
 ---
 
+## System Overview
+
+- Laptop (Python/OpenCV) processes hand gestures and face tracking, and sends control commands to the ESP32.  
+- ESP32 receives commands from the laptop and voice module, and controls the servo motors accordingly.
+
+---
+
 ## Demo
 
 See the `demo/` folder for images and video demonstration of the robotic arm.
