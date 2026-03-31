@@ -42,6 +42,9 @@ Robotic arm controlled using voice commands and hand gestures, enabling intuitiv
 
 See the `demo/` folder for images and video demonstration of the robotic arm.
 
+Alternatively, watch it here:
+[Demo Video Link](https://is.gd/aa9CAz)
+
 ---
 
 ## Note
