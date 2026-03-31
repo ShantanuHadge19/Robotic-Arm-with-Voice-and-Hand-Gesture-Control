@@ -1,4 +1,4 @@
-# Robotic Arm with Voice and Hand Gesture Control
+# Robotic Arm
 
 Robotic arm controlled using voice commands and hand gestures, enabling intuitive human-robot interaction.
 
